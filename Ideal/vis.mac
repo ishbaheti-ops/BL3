@@ -1,0 +1,35 @@
+/geometry/test/run
+/geometry/test/tolerance 1 nm
+
+/run/initialize
+
+/vis/open OGL 600x600-0+0
+
+/vis/viewer/set/auxiliaryEdge false
+/vis/viewer/set/hiddenEdge false
+/vis/viewer/set/lineSegmentsPerCircle 150
+
+
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/viewer/set/autoRefresh true
+
+
+/vis/drawVolume
+
+/vis/modeling/trajectories/create/drawByParticleID
+/vis/modeling/trajectories/drawByParticleID-0/set e- magenta
+/vis/modeling/trajectories/drawByParticleID-0/set e+ brown
+/vis/modeling/trajectories/drawByParticleID-0/set nu_e white
+/vis/modeling/trajectories/drawByParticleID-0/set anti_nu_e white
+/vis/modeling/trajectories/drawByParticleID-0/set geantino white
+/vis/modeling/trajectories/drawByParticleID-0/set gamma green
+/vis/modeling/trajectories/drawByParticleID-0/set alpha red
+/vis/modeling/trajectories/drawByParticleID-0/set Li7 blue
+/vis/modeling/trajectories/drawByParticleID-0/set GenericIon grey
+/vis/modeling/trajectories/drawByParticleID-0/set neutron magenta
+
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate -1
+/vis/scene/add/scale 10 cm
+/vis/scene/add/axes
+/vis/scene/add/eventID
