@@ -1,0 +1,208 @@
+400 um away
+//detector positions
+    G4double x1 = -7.9839*cm;
+    G4double y1 = 13.8289*cm;
+    G4double z1 = 13.3736*cm;
+
+    G4double x2 = -19.4194*cm;
+    G4double y2 = 0.0000*cm;
+    G4double z2 = 8.1206*cm;
+
+    G4double x3 = -7.9839*cm;
+    G4double y3 = -13.8289*cm;
+    G4double z3 = 13.3736*cm;
+
+    G4double x4 = 9.7072*cm;
+    G4double y4 = 16.8135*cm;
+    G4double z4 = 8.1176*cm;
+
+    G4double x5 = 16.1409*cm;
+    G4double y5 = 0.0000*cm;
+    G4double z5 = 13.5096*cm;
+
+    G4double x6 = 9.7072*cm;
+    G4double y6 = -16.8135*cm;
+    G4double z6 = 8.1176*cm;
+
+    //aperture positions
+    G4double i1 = -7.6789*cm;
+    G4double j1 = 13.2999*cm;
+    G4double k1 = 12.8886*cm;
+
+    G4double i2 = -18.4874*cm;
+    G4double j2 = 0.0000*cm;
+    G4double k2 = 7.7576*cm;
+
+    G4double i3 = -7.6789*cm;
+    G4double j3 = -13.2999*cm;
+    G4double k3 = 12.8886*cm;
+
+    G4double i4 = 9.2432*cm;
+    G4double j4 = 16.0105*cm;
+    G4double k4 = 7.7576*cm;
+
+    G4double i5 = 15.3579*cm;
+    G4double j5 = 0.0000*cm;
+    G4double k5 = 12.8886*cm;
+
+    G4double i6 = 9.2432*cm;
+    G4double j6 = -16.0105*cm;
+    G4double k6 = 7.7576*cm;
+
+
+400 um towards
+//detector positions
+    G4double x1 = -7.9541*cm;
+    G4double y1 = 13.7771*cm;
+    G4double z1 = 13.3204*cm;
+
+    G4double x2 = -19.3466*cm;
+    G4double y2 = 0.0000*cm;
+    G4double z2 = 8.0874*cm;
+
+    G4double x3 = -7.9541*cm;
+    G4double y3 = -13.7771*cm;
+    G4double z3 = 13.3204*cm;
+
+    G4double x4 = 9.6708*cm;
+    G4double y4 = 16.7505*cm;
+    G4double z4 = 8.0844*cm;
+
+    G4double x5 = 16.0811*cm;
+    G4double y5 = 0.0000*cm;
+    G4double z5 = 13.4564*cm;
+
+    G4double x6 = 9.6708*cm;
+    G4double y6 = -16.7505*cm;
+    G4double z6 = 8.0844*cm;
+
+    //aperture positions
+    G4double i1 = -7.6491*cm;
+    G4double j1 = 13.2481*cm;
+    G4double k1 = 12.8354*cm;
+
+    G4double i2 = -18.4146*cm;
+    G4double j2 = 0.0000*cm;
+    G4double k2 = 7.7244*cm;
+
+    G4double i3 = -7.6491*cm;
+    G4double j3 = -13.2481*cm;
+    G4double k3 = 12.8354*cm;
+
+    G4double i4 = 9.2068*cm;
+    G4double j4 = 15.9475*cm;
+    G4double k4 = 7.7244*cm;
+
+    G4double i5 = 15.2981*cm;
+    G4double j5 = 0.0000*cm;
+    G4double k5 = 12.8354*cm;
+
+    G4double i6 = 9.2068*cm;
+    G4double j6 = -15.9475*cm;
+    G4double k6 = 7.7244*cm;
+
+
+
+100 um away
+//detector positions
+    G4double x1 = -7.9727*cm;
+    G4double y1 = 13.8095*cm;
+    G4double z1 = 13.3537*cm;
+
+    G4double x2 = -19.3921*cm;
+    G4double y2 = 0.0000*cm;
+    G4double z2 = 8.1081*cm;
+
+    G4double x3 = -7.9727*cm;
+    G4double y3 = -13.8095*cm;
+    G4double z3 = 13.3537*cm;
+
+    G4double x4 = 9.6936*cm;
+    G4double y4 = 16.7899*cm;
+    G4double z4 = 8.1051*cm;
+
+    G4double x5 = 16.1185*cm;
+    G4double y5 = 0.0000*cm;
+    G4double z5 = 13.4897*cm;
+
+    G4double x6 = 9.6936*cm;
+    G4double y6 = -16.7899*cm;
+    G4double z6 = 8.1051*cm;
+
+    //aperture positions
+    G4double i1 = -7.6677*cm;
+    G4double j1 = 13.2805*cm;
+    G4double k1 = 12.8687*cm;
+
+    G4double i2 = -18.4601*cm;
+    G4double j2 = 0.0000*cm;
+    G4double k2 = 7.7451*cm;
+
+    G4double i3 = -7.6677*cm;
+    G4double j3 = -13.2805*cm;
+    G4double k3 = 12.8687*cm;
+
+    G4double i4 = 9.2296*cm;
+    G4double j4 = 15.9869*cm;
+    G4double k4 = 7.7451*cm;
+
+    G4double i5 = 15.3355*cm;
+    G4double j5 = 0.0000*cm;
+    G4double k5 = 12.8687*cm;
+
+    G4double i6 = 9.2296*cm;
+    G4double j6 = -15.9869*cm;
+    G4double k6 = 7.7451*cm;
+
+
+
+100 um towards
+//detector positions
+    G4double x1 = -7.9653*cm;
+    G4double y1 = 13.7965*cm;
+    G4double z1 = 13.3403*cm;
+
+    G4double x2 = -19.3739*cm;
+    G4double y2 = 0.0000*cm;
+    G4double z2 = 8.0999*cm;
+
+    G4double x3 = -7.9653*cm;
+    G4double y3 = -13.7965*cm;
+    G4double z3 = 13.3403*cm;
+
+    G4double x4 = 9.6844*cm;
+    G4double y4 = 16.7741*cm;
+    G4double z4 = 8.0969*cm;
+
+    G4double x5 = 16.1035*cm;
+    G4double y5 = 0.0000*cm;
+    G4double z5 = 13.4763*cm;
+
+    G4double x6 = 9.6844*cm;
+    G4double y6 = -16.7741*cm;
+    G4double z6 = 8.0969*cm;
+
+    //aperture positions
+    G4double i1 = -7.6603*cm;
+    G4double j1 = 13.2675*cm;
+    G4double k1 = 12.8553*cm;
+
+    G4double i2 = -18.4419*cm;
+    G4double j2 = 0.0000*cm;
+    G4double k2 = 7.7369*cm;
+
+    G4double i3 = -7.6603*cm;
+    G4double j3 = -13.2675*cm;
+    G4double k3 = 12.8553*cm;
+
+    G4double i4 = 9.2204*cm;
+    G4double j4 = 15.9711*cm;
+    G4double k4 = 7.7369*cm;
+
+    G4double i5 = 15.3205*cm;
+    G4double j5 = 0.0000*cm;
+    G4double k5 = 12.8553*cm;
+
+    G4double i6 = 9.2204*cm;
+    G4double j6 = -15.9711*cm;
+    G4double k6 = 7.7369*cm;
